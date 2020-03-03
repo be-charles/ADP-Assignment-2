@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3fb86db-c3db-4ff7-b95c-a3c2f591d216" name="Default Changelist" comment="" />
+    <list default="true" id="f3fb86db-c3db-4ff7-b95c-a3c2f591d216" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/iSwim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/iWalk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HumanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,11 +21,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
         <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YIlzz0PD1cH2I1KIZgobcenlIk" />
   <component name="ProjectViewState">
@@ -36,12 +51,12 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.UserTest.fail">
-    <configuration name="UserTest.equals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.DogTest.Polymorphism">
+    <configuration name="DogTest.Polymorphism" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ADPAssignment2" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="UserTest" />
-      <option name="METHOD_NAME" value="equals" />
+      <option name="MAIN_CLASS_NAME" value="DogTest" />
+      <option name="METHOD_NAME" value="Polymorphism" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DogTest.Polymorphism" />
         <item itemvalue="JUnit.UserTest.fail" />
         <item itemvalue="JUnit.UserTest.objectIdentityTimeout" />
         <item itemvalue="JUnit.UserTest.objectIdentity" />
         <item itemvalue="JUnit.UserTest.objectEquality" />
-        <item itemvalue="JUnit.UserTest.equals" />
       </list>
     </recent_temporary>
   </component>
@@ -111,25 +126,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="721" y="187" key="#com.intellij.ide.util.MemberChooser" timestamp="1582639060002">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="-1199" y="185" key="#com.intellij.ide.util.MemberChooser" timestamp="1583274389499">
+      <screen x="-1920" y="-2" width="1920" height="1080" />
     </state>
+    <state x="-1199" y="185" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1920.-2.1920.1080@-1920.-2.1920.1080" timestamp="1583274389499" />
     <state x="721" y="187" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1920.-2.1920.1080@0.0.1920.1080" timestamp="1582639060002" />
-    <state width="1865" height="346" key="GridCell.Tab.0.bottom" timestamp="1582641939765">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1865" height="279" key="GridCell.Tab.0.bottom" timestamp="1583275723173">
+      <screen x="-1920" y="-2" width="1920" height="1080" />
     </state>
+    <state width="1865" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.-2.1920.1080@-1920.-2.1920.1080" timestamp="1583275723173" />
     <state width="1865" height="346" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.-2.1920.1080@0.0.1920.1080" timestamp="1582641939765" />
-    <state width="1865" height="346" key="GridCell.Tab.0.center" timestamp="1582641939765">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1865" height="279" key="GridCell.Tab.0.center" timestamp="1583275723173">
+      <screen x="-1920" y="-2" width="1920" height="1080" />
     </state>
+    <state width="1865" height="279" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.-2.1920.1080@-1920.-2.1920.1080" timestamp="1583275723173" />
     <state width="1865" height="346" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.-2.1920.1080@0.0.1920.1080" timestamp="1582641939765" />
-    <state width="1865" height="346" key="GridCell.Tab.0.left" timestamp="1582641939765">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1865" height="279" key="GridCell.Tab.0.left" timestamp="1583275723173">
+      <screen x="-1920" y="-2" width="1920" height="1080" />
     </state>
+    <state width="1865" height="279" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.-2.1920.1080@-1920.-2.1920.1080" timestamp="1583275723173" />
     <state width="1865" height="346" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.-2.1920.1080@0.0.1920.1080" timestamp="1582641939765" />
-    <state width="1865" height="346" key="GridCell.Tab.0.right" timestamp="1582641939765">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1865" height="279" key="GridCell.Tab.0.right" timestamp="1583275723173">
+      <screen x="-1920" y="-2" width="1920" height="1080" />
     </state>
+    <state width="1865" height="279" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.-2.1920.1080@-1920.-2.1920.1080" timestamp="1583275723173" />
     <state width="1865" height="346" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.-2.1920.1080@0.0.1920.1080" timestamp="1582641939765" />
     <state width="1865" height="346" key="GridCell.Tab.1.bottom" timestamp="1582641939765">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -147,9 +167,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1865" height="346" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.-2.1920.1080@0.0.1920.1080" timestamp="1582641939765" />
-    <state x="728" y="168" width="676" height="743" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582639678192">
+    <state x="571" y="321" key="com.intellij.ide.util.TipDialog" timestamp="1583268264558">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
+    <state x="571" y="321" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1920.-2.1920.1080@0.0.1920.1080" timestamp="1583268264558" />
+    <state x="-1192" y="166" width="676" height="743" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583275001787">
+      <screen x="-1920" y="-2" width="1920" height="1080" />
+    </state>
+    <state x="-1192" y="166" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1080/-1920.-2.1920.1080@-1920.-2.1920.1080" timestamp="1583275001787" />
     <state x="728" y="168" width="676" height="743" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1080/-1920.-2.1920.1080@0.0.1920.1080" timestamp="1582639678192" />
   </component>
 </project>
