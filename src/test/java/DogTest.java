@@ -13,4 +13,13 @@ public class DogTest {
         Dog d = new Dog();
         assertEquals(true, d instanceof Mammal);
     }
+    @Test
+    public void storeAsMammal(){
+        Mammal m;
+        Dog d = new Dog();
+        d.name = "dog";
+        m = d;
+
+        assertEquals("dog", m.getName());
+    }
 }
